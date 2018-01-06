@@ -37,11 +37,11 @@ apt-get install neofetch
 echo "clear" >> .bashrc
 echo -e " "
 echo 'echo -e "\033[01;32m  }~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{"' >> .bashrc
-echo 'echo -e "  {    Wallcom to server Debian7-8     }"' >> .bashrc
+echo 'echo -e "  {    Wallcom to server Debian7-8    }"' >> .bashrc
 echo 'echo -e "  }~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{"' >> .bashrc
-echo 'echo -e "  { Script mod by  Dv-Server }"' >> .bashrc
+echo 'echo -e "  {      Script mod by  Thachaya      }"' >> .bashrc
 echo 'echo -e "  }~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{"' >> .bashrc
-echo 'echo -e "  {   prin { menu } Show menu items    }"' >> .bashrc
+echo 'echo -e "  {  Enter { menu } Show menu items   }"' >> .bashrc
 echo 'echo -e "  }~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{"' >> .bashrc
 echo -e "\033[1;33m"
 
