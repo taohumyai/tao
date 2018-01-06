@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Mod by Dv-server
+# Mod by Taohumyai
 # ==================================================
 echo "<BODY text='ffffff'>" > admin.sh
 clear
